@@ -1,2 +1,7 @@
-# demo-estudio-juridico-vincenti
-Demo web para Estudio Jurídico Vincenti — diseñada por eterlab.
+# Estudio Jurídico Vincenti
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
